@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django,flask,Laravel**
 
-- 👨‍💻 All of my projects are available at [arshanvaland.github.io/portfolio/](https://darshanvaland.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [darshanvaland.github.io/portfolio/](https://darshanvaland.github.io/portfolio)
 
 - 💬 Ask me about **Python,PHP,Django,Flask,Html,CSS,JS**
 
